@@ -1,5 +1,5 @@
 # 网易云音乐
-# PING REQUESTS
-IP-CIDR,103.65.41.0/24
+# HTTP/PING REQUESTS
+IP-CIDR,103.65.41.126/32
 # Resources
 URL-REGEX,^http://[m,p]\d+c.music\.126\.net
