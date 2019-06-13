@@ -1,2 +1,5 @@
-DOMAIN-SUFFIX,idx.m.hub.sandai.net,force-remote-dns,enhanced-mode
-DOMAIN-SUFFIX,hub5emu.sandai.net,force-remote-dns,enhanced-mode
+# macOS
+PROCESS-NAME,Thunder
+DOMAIN-SUFFIX,sandai.net
+DOMAIN-SUFFIX,xunlei.com
+DOMAIN-SUFFIX,88cdn.com
