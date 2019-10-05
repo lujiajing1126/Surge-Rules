@@ -1,6 +1,7 @@
 # macOS
 PROCESS-NAME,Thunder
-PROCESS-NAME,*/Thunder.app/Contents/XPCServices/DownloadService.xpc/Contents/MacOS/DownloadService
+PROCESS-NAME,/Applications/Thunder.app/Contents/XPCServices/DownloadService.xpc/Contents/MacOS/DownloadService
+PROCESS-NAME,/Applications/Thunder.app/Contents/XPCServices/VideoPreloadService.xpc/Contents/MacOS/VideoPreloadService
 DOMAIN-SUFFIX,sandai.net
 DOMAIN-SUFFIX,xunlei.com
 DOMAIN-SUFFIX,88cdn.com
