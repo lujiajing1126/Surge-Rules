@@ -2,6 +2,7 @@
 PROCESS-NAME,Thunder
 PROCESS-NAME,/Applications/Thunder.app/Contents/XPCServices/DownloadService.xpc/Contents/MacOS/DownloadService
 PROCESS-NAME,/Applications/Thunder.app/Contents/XPCServices/VideoPreloadService.xpc/Contents/MacOS/VideoPreloadService
-DOMAIN-SUFFIX,sandai.net
-DOMAIN-SUFFIX,xunlei.com
+DOMAIN-KEYWORD,sandai
+DOMAIN-KEYWORD,xunlei
 DOMAIN-SUFFIX,88cdn.com
+DOMAIN-KEYWORD,thunder
