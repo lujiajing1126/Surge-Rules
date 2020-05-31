@@ -33,6 +33,7 @@ DOMAIN-SUFFIX,annualreviews.org
 
 # > Scopus
 DOMAIN-SUFFIX,scopus.com
+DOMAIN,id.elsevier.com
 
 # > 告别出版商绑架（请单独将下方规则放在 Rule 策略中）
 # DOMAIN-KEYWORD,sci-hub,Proxy
