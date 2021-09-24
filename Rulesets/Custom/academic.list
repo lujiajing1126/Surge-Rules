@@ -30,6 +30,8 @@ DOMAIN-SUFFIX,osapublishing.org
 DOMAIN-SUFFIX,journals.aps.org
 # > Annual Reviews
 DOMAIN-SUFFIX,annualreviews.org
+# > Clarivate
+DOMAIN-SUFFIX,clarivate.com
 
 # > Scopus
 DOMAIN-SUFFIX,scopus.com
