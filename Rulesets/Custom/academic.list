@@ -32,6 +32,7 @@ DOMAIN-SUFFIX,journals.aps.org
 DOMAIN-SUFFIX,annualreviews.org
 # > Clarivate
 DOMAIN-SUFFIX,clarivate.com
+DOMAIN-SUFFIX,webofknowledge.com
 
 # > Scopus
 DOMAIN-SUFFIX,scopus.com
